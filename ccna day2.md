@@ -2,11 +2,11 @@ Interfaces and Cables
 =====================
 - RJ-45 connecters. 랜선. (RJ = Regitered Jack)
 
-###Ethernet
+### Ethernet
   -Ethernet is a collection of network protocols/standards.
 
-###Bits and Bytes
-  -bits = 0,1
+### Bits and Bytes
+  bits = 0,1
   8bits = 1byte
   (01100101) = 8bits = 1byte
   
