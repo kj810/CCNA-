@@ -3,7 +3,7 @@ Interfaces and Cables
 - RJ-45 connecters. 랜선. (RJ = Regitered Jack)
 
 ### Ethernet
-  -Ethernet is a collection of network protocols/standards.
+  - Ethernet is a collection of network protocols/standards.
 
 ### Bits and Bytes
   bits = 0,1
